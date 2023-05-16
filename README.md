@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [quora](quora)
 
-- 💬 Ask me about **HTML5 and CSS3**
+- 💬 Ask me about **HTML5 and CSS3 JavaScript tailwind CSS C c++ **
 
 - 📫 How to reach me **pratikajbe@gmail.com**
 
