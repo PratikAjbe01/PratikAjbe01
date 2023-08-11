@@ -1,7 +1,7 @@
 <h2 align="center">Hi there! 👋 I'm Pratik Ajbe/</h2>
 
 <p align="center">
-  I'm a passionate developer who enjoys building web applications and exploring various technologies. I have experience in both frontend and backend development. Currently, I'm focused on expanding my skills in backend development and mastering data structures and algorithms (DSA).
+  I'm a passionate developer who enjoys building web applications and exploring various technologies. I have experience in  frontend development. Currently, I'm focused on expanding my skills in backend development and mastering data structures and algorithms (DSA).
 </p>
 
 <h3 align="center">🌱 What I'm Up To</h3>
