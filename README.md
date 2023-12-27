@@ -11,7 +11,7 @@
   <br>
   📚 I'm currently learning about <b>backend development</b> to become a full-stack developer. Exploring technologies like <b>Node.js</b>, <b>Express</b>, and <b>MongoDB</b>.
   <br>
-  🧠 I'm actively improving my problem-solving skills with <b>Data Structures and Algorithms (DSA)</b>. Solving challenges on platforms like <b>LeetCode</b> and <b>HackerRank</b>.
+  🧠 I'm actively improving my problem-solving skills with <b>Data Structures and Algorithms (DSA)</b>. Solving challenges on platforms like <b>LeetCode</b> and <b>CodeStudio</b>.
 </p>
 
 <h3 align="center">🚀 Projects</h3>
