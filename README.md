@@ -1,49 +1,42 @@
-<h2 align="center">Hi there! 👋 I'm Pratik Ajbe/</h2>
+<h1 align="center">👋 Hi, I'm Pratik Ajbe</h1>
+<h3 align="center">MERN Stack Developer | CS Grad @ DAVV</h3>
 
 <p align="center">
-  I'm a passionate developer who enjoys building web applications and exploring various technologies. I have experience in  frontend development. Currently, I'm focused on expanding my skills in backend development and mastering data structures and algorithms (DSA).
+  <a href="https://github.com/pratikajbe">
+    <img src="https://komarev.com/ghpvc/?username=pratikajbe&label=Profile%20views&color=0e75b6&style=flat" alt="pratikajbe" />
+  </a>
+  <a href="https://www.linkedin.com/in/pratikajbe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pratikajbe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/pratikajbe/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
-<h3 align="center">🌱 What I'm Up To</h3>
+---
 
-<p align="center">
-  💻 I'm proficient in <b>React</b> and have completed several projects using the library. Check them out in my <a href="https://github.com/pratikajbe">GitHub repository</a>.
-  <br>
-  📚 I'm currently learning about <b>backend development</b> to become a full-stack developer. Exploring technologies like <b>Node.js</b>, <b>Express</b>, and <b>MongoDB</b>.
-  <br>
-  🧠 I'm actively improving my problem-solving skills with <b>Data Structures and Algorithms (DSA)</b>. Solving challenges on platforms like <b>LeetCode</b> and <b>CodeStudio</b>.
-</p>
+### 🚀 About Me
 
-<h3 align="center">🚀 Projects</h3>
-
-<p align="center">
-  Here are a few of my notable React projects:
-  <br>
-  - <a href="Link">Project 1</a>: Short description of the project.
-  <br>
-  - <a href="Link">Project 2</a>: Short description of the project.
-  <br>
-  Feel free to explore my repository to see more of my work!
-</p>
-
-<h3 align="center">💬 Skills</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30" />
-</p>
-
-<p align="center">
-  Feel free to connect with me on <a href="https://www.linkedin.com/in/pratikajbe">LinkedIn</a> or reach out via email at <a href="mailto:pratikajbe@gmail.com">pratikajbe@gmail.com</a>. Looking forward to connecting and learning together!
-</p>
-
-<p align="center">
-  <b>Fun Fact:</b> I think I'm funny, but my code's sense of humor is questionable!
-</p>
+```javascript
+const pratik = {
+  education: [
+    "B.Sc Computer Science (DAVV) - GPA: 8.33/10.0",
+    "MCA (DAVV) - GPA: 9.3/10.0"
+  ],
+  achievements: [
+    "🥈 2nd Place – TechVerse Ideamania (Genesis 2025)",
+    "🥉 3rd Place – Low-Code/No-Code Hackathon @ SCSIT, DAVV"
+  ],
+  techStack: {
+    frontend: ["React", "Next.js", "Framer Motion", "Chakra UI", "TailwindCSS"],
+    backend: ["Node.js", "Express", "NestJS"],
+    databases: ["MongoDB", "PostgreSQL"],
+    devTools: ["Vite", "Webpack", "ESLint", "Prettier", "Jest"],
+    other: ["Git", "Docker", "AWS Basics"]
+  },
+  currentFocus: "Building full-stack applications with MERN stack",
+  funFact: "I can debug CSS while sleeping! (Results may vary)"
+};
