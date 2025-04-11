@@ -19,10 +19,11 @@
 ---
 
 <!--- Stats and Tech Stack arranged properly --->
+ <h2 align="center">📊 Stats</h2>
  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <div>
-    <h2 align="center">📊 Stats</h2>
+   
 
 
   
