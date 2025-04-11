@@ -27,7 +27,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=PratikAjbe01&show_icons=true&theme=shadow_blue&bg_color=00000000&border_color=00000000#gh-light-mode-only" alt="GitHub Stats Light"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratikAjbe01&theme=dark&utcOffset=5.30#gh-light-mode-only" alt="Productive Time Dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratikAjbe01&theme=transparent&utcOffset=5.30#gh-dark-mode-only" alt="Productive Time Transparent"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratikAjbe01&theme=dark&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-dark-mode-only" alt="Most Commit Language Dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratikAjbe01&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-light-mode-only" alt="Most Commit Language Transparent"/>
   </div>
 
