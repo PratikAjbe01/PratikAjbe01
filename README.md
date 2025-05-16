@@ -23,11 +23,7 @@
  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <div>
-   
 
-
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=PratikAjbe01&show_icons=true&theme=shadow_blue&bg_color=00000000&border_color=00000000#gh-light-mode-only" alt="GitHub Stats Light" style="max-width: 100%; height: auto;"/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratikAjbe01&theme=dark&utcOffset=5.30#gh-light-mode-only" alt="Productive Time Dark" style="max-width: 100%; height: auto;"/>
   
