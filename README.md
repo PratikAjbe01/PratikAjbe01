@@ -25,8 +25,7 @@
   <div>
 
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratikAjbe01&theme=dark&utcOffset=5.30#gh-light-mode-only" alt="Productive Time Dark" style="max-width: 100%; height: auto;"/>
-  
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratikAjbe01&theme=transparent&utcOffset=5.30#gh-dark-mode-only" alt="Productive Time Transparent" style="max-width: 100%; height: auto;"/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratikAjbe01&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1#gh-light-mode-only" alt="Most Commit Language Transparent" style="max-width: 100%; height: auto;"/>
