@@ -11,7 +11,7 @@
   <a href="mailto:pratikajbe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/pratikajbe/">
+  <a href="https://www.geeksforgeeks.org/user/pratikatrwa/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
