@@ -74,10 +74,8 @@
   <a href="https://www.geeksforgeeks.org/user/pratikatrwa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="geeksforgeeks logo" />
   </a>
-  <img width="12" />
-  <a href="https://leetcode.com/u/DebugPratik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="leetcode logo" />
-  </a>
+
+
 </div>
 
 ---
