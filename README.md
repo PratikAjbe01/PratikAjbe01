@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="geeksforgeeks logo" />
   </a>
 
-
+ <img width="12" />
 </div>
 
 ---
