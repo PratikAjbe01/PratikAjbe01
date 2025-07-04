@@ -112,10 +112,7 @@
 <div align="center">
   <h3>💫 Thanks for visiting! Feel free to connect and collaborate! 🚀</h3>
 </div>
-```
 
 
-```
-```
 
 
