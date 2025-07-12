@@ -10,7 +10,6 @@
         <p>🎓 B.Sc. in Computer Science graduate</p>
         <p>🎓 Currently pursuing MCA from DAVV</p>
         <p>💡 Enthusiastic about building innovative digital solutions</p>
-        <p>🧠 Strong interest in SaaS (Software as a Service) development</p>
         <p>🏃‍♂️ Outside of coding, I enjoy sports and staying active</p>
         <p>
           <em>"Those who cannot remember the past are condemned to repeat it"</em> - <strong>Dynamic Programming</strong>
