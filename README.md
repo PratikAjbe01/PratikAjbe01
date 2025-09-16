@@ -7,7 +7,7 @@
     <tr>
       <td width="50%">
         <h3>🚀 About Me</h3>
-        <p>🔥Seeking a hustle buddy for placements!.Lets crack it</p>
+        <p>🔥Seeking a hustle buddy </p>
         <p>🎓 Currently pursuing MCA from DAVV</p>
         <p>💡 Enthusiastic about building innovative digital solutions</p>
         <p>🏃‍♂️ Outside of coding, I enjoy sports and staying active</p>
